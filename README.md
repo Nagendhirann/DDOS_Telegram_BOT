@@ -4,7 +4,7 @@ DDOS BotNet for telegram, just make differents version of this bot with differen
 
 And host it ! (I use [GLITCH](https://glitch.com/dashboard) for simple and free host)
 <br><br>
-## How use it ?
+## How use it ?bh
 
 Just clone the repo on your hosting server, make a .env file with a TELEGRAM_TOKEN variable with your telegram token key, 
 and make a NUM variable with the name of the bot.
